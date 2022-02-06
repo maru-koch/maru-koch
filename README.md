@@ -4,7 +4,7 @@ I am glad to have you here.
 
 I'm a passionate intermediate level developer with skills in Python, Django, React.js, PostreSQL, Git, Figma (Design), and SCRUM (Agile Methodologies) 
 
-The projects made public in my github account are mainly beginner and intermdediate projects. However, I have collaborated on some advance level Projects with a team.
+The projects made public in my github account are mainly beginner and intermdediate projects. However, I have collaborated on some advance level Projects. I have experience working with remote teams.
 
 I hope you find this projects impressive.
 
