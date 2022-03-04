@@ -2,7 +2,7 @@ I am glad to have you here.
 
 ✨ My name is Nwokocha Maruche
 
-I'm a passionate developer with skills in Python, Django, React.js, PostreSQL, Git, Figma (Design), and SCRUM (Agile Methodologies) 
+I'm a passionate developer with skills in Python, Django, React.js, PostreSQL, Git, and SCRUM (Agile Methodologies) 
 
 The projects made public in my github account are mainly beginner and intermdediate projects. However, I have collaborated, with my team, on advance level Projects. I have experience remote work experience.
 
