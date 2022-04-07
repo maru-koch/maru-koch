@@ -1,12 +1,27 @@
-I am glad to have you here. 
+# About Me
 
-✨ My name is Nwokocha Maruche
+Hey there ✨, glad to have you here. I'm Nwokocha Maruche. 
 
-I'm a passionate developer with skills in Python, Django, React.js, PostreSQL, Git, and SCRUM (Agile Methodologies) 
+## Skills
 
-The projects made public in my github account are mainly beginner and intermdediate projects. However, I have collaborated, with my team, on advance level Projects. I have experience remote work experience.
+- Python (Django)
+- React.js
+- PostreSQL
+- Git, github Projects and CI/CD
+- SCRUM (Agile Methodologies - Certified)
+- Docker, etc.
 
-Want to say hello? you can reach me on +234 80304 25259; email: marukoch.ng@gmail.com
+## Projects
+- Konom Hospital Management System
+- Devmentor
+- Marukoch (Personal Website)
+
+## Blog
+I share my thoughts about technologies and open source on hashnode <link>https://hashnode.com/@maru-koch<link/>
+
+### Contact
+
+Want to say hello? you can reach me on: marukoch.ng@gmail.com
 
 <!---
 maru-koch/maru-koch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
