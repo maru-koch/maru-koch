@@ -4,7 +4,9 @@ Hey there ✨, glad to have you here. I'm Nwokocha Maruche.
 
 ## Skills
 
-- Python (Django)
+- Python 
+- Django
+- Rest framework
 - React.js
 - PostreSQL
 - Git, github Projects and CI/CD
