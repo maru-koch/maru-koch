@@ -13,12 +13,6 @@ Hey there ✨, glad to have you here. I'm Nwokocha Maruche.
 - SCRUM (Agile Methodologies - Certified)
 - Docker, etc.
 
-## Projects
-- Konom Hospital Management System
-- Devmentor
-- Marukoch (Personal Website)
-- Online Voting System (Vota)
-
 ## Blog
 I share my thoughts about technologies and open source on hashnode <link>https://hashnode.com/@maru-koch<link/>
 
