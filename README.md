@@ -7,6 +7,9 @@ Hey there ✨, glad to have you here. I'm Nwokocha Maruche.
 - Python 
 - Django
 - Rest framework
+- Celery
+- Redis
+- RabbitMQ
 - React.js
 - PostreSQL
 - Git, github Projects and CI/CD
