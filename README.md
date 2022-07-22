@@ -1,6 +1,6 @@
 # About Me
 
-Hey there ✨, glad to have you here. I'm Nwokocha Maruche. 
+Hi ✨, I'm glad to have you here. I'm Nwokocha Maruche. 
 
 ## Skills
 
