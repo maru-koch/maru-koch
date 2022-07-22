@@ -4,13 +4,15 @@ Hey there ✨, glad to have you here. I'm Nwokocha Maruche.
 
 ## Skills
 
+- React.js
 - Python 
 - Django
 - Rest framework
 - Celery
 - Redis
 - RabbitMQ
-- React.js
+- HTML5
+- CSS3
 - PostreSQL
 - Git, github Projects and CI/CD
 - SCRUM (Agile Methodologies - Certified)
