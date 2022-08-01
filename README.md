@@ -11,12 +11,15 @@ Hi ✨, I'm glad to have you here. I'm Nwokocha Maruche.
 - Celery
 - Redis
 - RabbitMQ
-- HTML5
-- CSS3
+- Node
+- ReactJS
+- MongoDB
+- AWS (Alastic beanstalk)
 - PostreSQL
 - Git, github Projects and CI/CD
 - SCRUM (Agile Methodologies - Certified)
 - Docker, etc.
+- HTML5 and CSS3
 
 ## Blog
 I share my thoughts about technologies and open source on hashnode <link>https://hashnode.com/@maru-koch<link/>
