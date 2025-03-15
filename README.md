@@ -4,19 +4,12 @@ Hi ✨, I'm glad to have you here. I'm Nwokocha Maruche.
 
 ## Skills
 
-- Python 
-- Django
-- Rest framework
-- Celery
-- Redis
-- ReactJS
-- AWS
-- PostreSQL
-- Git, github Projects and CI/CD
-- SCRUM (Agile Methodologies - Certified)
-- Docker, etc.
-- HTML5 and CSS3
-- Tailwind CSS
+- Backend: Python, Django, DRF, Flask
+- Frontend: ReactJS & Tailwind
+- Cloud: AWS
+- Database: PostreSQL, MSSQL, SQL
+- Repository Management: Git, Github, Github Action, GitLab
+- Project Management: SCRUM (Agile Methodologies - Certified)
 
 ## Blog
 I share my thoughts about technologies and open source on hashnode <link>https://hashnode.com/@maru-koch<link/>
